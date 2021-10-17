@@ -1,0 +1,9 @@
+code,
+kbd,
+pre,
+samp {
+  font-family: 'Roboto Mono', 'Noto Sans JP', monospace !important;
+  line-height: 1rem;
+  letter-spacing: -0.2px;
+  font-size: 1rem;
+}

@@ -1,0 +1,22 @@
+$body-font-family: 'Noto Sans JP', sans-serif;
+$heading-font-family: 'Noto Sans JP', sans-serif;
+
+$material-light: (
+  'background': white,
+  'text': (
+    'primary': rgba(32, 33, 36, 1),
+    'secondary': rgba(0, 0, 0, 1),
+    'disabled': rgba(0, 0, 0, 0.5),
+  ),
+);
+
+$font-size-root: 18px;
+$btn-text-transform: none;
+$card-text-font-size: 0.875rem;
+
+$calendar-daily-interval-gutter-font-size: 1rem;
+$calendar-weekly-day-label-font-size: 1rem;
+
+$calendar-event-font-size: 0.875rem;
+$calendar-daily-weekday-font-size: 0.875rem;
+$calendar-weekly-weekday-font-size: 0.875rem;
