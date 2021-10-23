@@ -3,6 +3,7 @@ import colors from 'vuetify/es5/util/colors'
 const SITE_NAME = 'Nuxt and Vuetify'
 
 export default {
+  ssr: false,
   env: {
     SITE_NAME,
   },
